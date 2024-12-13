@@ -22,7 +22,7 @@ djangorestframework-simplejwt==5.3.1
 fonttools==4.51.0
 gcloud==0.18.3
 googleapis-common-protos==1.66.0
-gunicorn==23.0.0
+gunicorn==gunicorn==19.7.1
 html5lib==1.1
 httplib2==0.22.0
 idna==3.10
