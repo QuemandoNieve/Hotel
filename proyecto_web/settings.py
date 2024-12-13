@@ -105,11 +105,11 @@ LOGIN_URL = 'iniciarsesionColaborador'  # O el nombre que uses para la vista de 
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'petsteam',#cambiar segun base de datos de mysql
+        'NAME': 'railway',#cambiar segun base de datos de mysql
         'USER':'root', #cambiar segun configuracion mysql
-        'PASSWORD':'root',#cambiar segun configuracion mysql
-        'HOST':'localhost',
-        'PORT': 3306 #cambiar segun configuracion mysql
+        'PASSWORD':'rzraxsNqXbXNNKrsajuNyceGMJGqzPZM',#cambiar segun configuracion mysql
+        'HOST':'junction.proxy.rlwy.net',
+        'PORT': 15923 #cambiar segun configuracion mysql
     }
 }
 
